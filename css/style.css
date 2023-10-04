@@ -1,0 +1,236 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+
+*{
+    font-family: 'Inter', sans-serif;
+}
+
+.sign-up{
+    background-color: black;
+    border-radius: 70px;
+    font-weight: 300;
+    width: 110px;
+}
+
+.navbar-brand{
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.nav-item a{
+    text-decoration: none;
+    color: black;
+}
+
+.con-navbar{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.navbar-toggler-icon{
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    color: black;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+.navbar-toggler{
+    background-color: white;
+    border: solid 3px black;
+    border-radius: 30px;
+}
+
+.navbar-toggler:hover{
+    background-color: white;
+    border: solid 3.5px black;
+}
+
+.navbar{
+    background-color: rgb(255, 255, 255);
+    border-radius: 0px 0px 0px 0px;
+    border: 2px solid #000;
+    background: #FBFF39;
+    box-shadow: 2px 4px 0px -3px #000;
+}
+
+.row .container-fluid{
+    padding: 5%;
+}
+
+.textmain{
+    color: #000;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.yellowBorder{
+    color: #000;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    transform: rotate(-1.1deg);
+    padding: 5px;
+
+    width: 304.471px;
+    height: 94px;
+    transform: rotate(-1.06deg);
+    flex-shrink: 0;
+
+    border-radius: 15px 15px 15px 0px;
+    border: 2px solid #000;
+    background: #FBFF39;
+    box-shadow: 5px 7px 0px -3px #000;
+}
+
+.main-content{
+    margin: 60px;
+}
+
+.img-fluid{
+    width: 400px;
+    height: 400px;
+}
+
+.btn-dark{
+    width: 159px;
+    height: 45px;
+    flex-shrink: 0;
+    border-radius: 25px;
+    background: #000;
+}
+
+.main-row{
+    margin-top: 100px;
+    margin-bottom: -130px;
+}
+
+.p-main{
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+
+.gatauapaan{
+    color: #000;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    font-weight: 600;
+}
+
+.yellowLine{
+    width: 213px;
+    height: 14px;
+    flex-shrink: 0;
+    margin-top: -14px;
+    background: #FBFF39;
+    box-shadow: 4px 4px 0px 0px #000;
+}
+
+.main-box{
+    margin-top: 100px;
+}
+
+.flex-column{
+    border: solid 2px black;
+    border-radius: 10px;
+}
+
+.col-sm-4 {
+    flex: 0 0 auto;
+    width: 33.33333333%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.card-body{
+    flex: 1 1 auto;
+    padding: 1rem 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.card-body .btn{
+    width: 100%;
+    background-color: white;
+    border-radius: 0px;
+    color: black;
+    border: solid 1px;
+}
+
+.footer{
+    align-items: start;
+    background-color: #FBFF39;
+    border: solid 2px black;
+    border-radius: 0px;
+    padding: 50px;
+
+}
+
+.footer-title{
+    margin-bottom: 10px;
+    font-size: large;
+}
+
+.footer-line{
+    background-color: #000;
+    height: 2px;
+    width: 20%;
+}
+.copyright{
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+div a{
+    text-decoration: none;
+    color: black;
+    font-size: large
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    +;
+}
